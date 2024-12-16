@@ -8,6 +8,7 @@ def fib(first,sec,score=data[2]):
 
 data[0]=int(input("Enter first number:\n"))
 data[1]=int(input("Enter second number:\n"))
+print("\n",stop*"-","\n")
 data[2]=len(str(data[0]))
 print(data[0],(stop-data[2])*"-", data[2])
 data[2]=len(str(data[1]))
