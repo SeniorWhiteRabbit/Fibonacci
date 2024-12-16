@@ -1,5 +1,5 @@
 data=[1,1,0]
-stop=20 #number of digits, reqired to reach before the stop
+stop=20 #number of digits, required to reach before the stop
 def fib(first,sec,score=data[2]):
 	sec+=first
 	score=len(str(sec))
