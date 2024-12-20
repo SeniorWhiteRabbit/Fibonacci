@@ -1,7 +1,7 @@
 first=1
 second=1
 score=0 #actual number of digits
-count=2 #counter of strings in sequence with the same length
+count=3 #counter of strings in sequence with the same length
 co_list=[] #counter's records
 cun=None  #co_list.append
 stop=40 #the limit of number's length
